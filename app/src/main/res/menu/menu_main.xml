@@ -5,7 +5,7 @@
     <item
         android:id="@+id/action_add"
         android:icon="@drawable/ic_action_name"
-        android:title="Add"
+        android:title="PickerView"
         app:showAsAction="always" />
     <item
         android:id="@+id/action_edit"
